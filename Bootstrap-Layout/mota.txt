@@ -1,0 +1,26 @@
+- Định dạng chung
+
+body {
+    font-family: 'Trebuchet MS', Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    line-height: 20px;
+}
+
+h1, h2, h3 {
+    font-family: 'Changa One', cursive;
+    font-weight: 400;
+}
+
+h1 {
+    font-size: 60px;
+    line-height: 60px;
+    font-weight: 900;
+}
+
+- Ghi chú:
++ Sử dụng font Google 'Changa One'
++ Sử dụng icon search của fontawesome
++ Màu sắc chính của trang:
+- Hồng: #FA97C2
+- Xanh dương: #2FA0D5
+- Xanh lá: #73C926
